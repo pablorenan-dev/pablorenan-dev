@@ -18,6 +18,6 @@ Sou apaixonado por escrever código limpo e organizado. Estou sempre aprendendo 
 <img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablorenan-dev)](https://github.com/anuraghazra/github-readme-stats)
-
 #
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablorenan-dev)](https://github.com/anuraghazra/github-readme-stats)
