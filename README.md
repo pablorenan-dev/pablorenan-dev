@@ -4,10 +4,6 @@ Sou apaixonado por escrever código limpo e organizado. Estou sempre aprendendo 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-renan-nichterwistz-b498ab2a2/)
 
-#
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablorenan-dev)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🧰 Linguagens e Ferramentas
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -21,3 +17,9 @@ Sou apaixonado por escrever código limpo e organizado. Estou sempre aprendendo 
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <br />
+
+#
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablorenan-dev)](https://github.com/anuraghazra/github-readme-stats)
+
+#
