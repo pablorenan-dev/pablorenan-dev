@@ -20,4 +20,4 @@ Sou apaixonado por escrever código limpo e organizado. Estou sempre aprendendo 
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablorenan-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablorenan-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
